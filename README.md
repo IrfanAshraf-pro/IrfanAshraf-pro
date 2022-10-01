@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋
 # 💫 About Me:
 🌱 I’m currently learning React , Tailwind CSS, Firebase<br>🥅 2022 Goals      : Efficient in React and become MERN stack Developer<br>📭 Contact           : irfanashraf4090@gmail.com<br>📖 Favorite Book : Rich Dad Poor Dad<br>🕴️ 30's Goals          : Self Sufficient before 25
 
