@@ -2,8 +2,8 @@
 </h2>
 <h3 align="left">👨🏻‍💻 About Me:</h3>
 📚  I’m currently learning <b>Node JS (Backend)</b><br>
-✉️ Reach me at: irfanashraf4090@gmail.com <br>
-💬 Ask me about React<br>
+✉️ Reach me at: <b>irfanashraf4090@gmail.com</b> <br>
+💬 Ask me about <b>React</b><br>
 🎯 Learn Node JS before 2023 ends
 
 
