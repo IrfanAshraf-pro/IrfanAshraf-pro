@@ -1,9 +1,9 @@
 <h2 align="center">Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I am <b>Muhammad Irfan Ashraf</b>
 </h2>
 <h3 align="left">👨🏻‍💻 About Me:</h3>
-📚  I’m currently learning <bold>Node JS (Backend)</bold><br>
-✉️ Reach me at: **irfanashraf4090@gmail.com** <br>
-💬 Ask me about **React** <br>
+📚  I’m currently learning <b>Node JS (Backend)</b><br>
+✉️ Reach me at: irfanashraf4090@gmail.com <br>
+💬 Ask me about React<br>
 🎯 Learn Node JS before 2023 ends
 
 
